@@ -1,7 +1,7 @@
 import React from 'react';
 import {createRoot} from "react-dom/client"
-import App from "./App.js"
-import "./style.css.js"
+import App from "./App.jsx"
+import "./style.css.jsx"
 
 const root = document.querySelector("#root")
 
